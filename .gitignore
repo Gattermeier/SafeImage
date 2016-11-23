@@ -37,7 +37,10 @@ jspm_packages
 .node_repl_history
 
 # Additional
+dev
 lib/
 notes
 example/build
 example/.DS_Store
+.storybook
+stories
